@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+D:/Myworkspace/VS2013/Tracking/CppMT/CMakeLists.txt
+D:/Myworkspace/VS2013/Tracking/CppMT/CMakeFiles/3.3.2/CMakeSystem.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Myworkspace/VS2013/Tracking/CppMT/CMakeFiles/3.3.2/CMakeCCompiler.cmake
+D:/Myworkspace/VS2013/Tracking/CppMT/CMakeFiles/3.3.2/CMakeCXXCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/Platform/WindowsPaths.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC.cmake
+D:/Myworkspace/VS2013/Tracking/CppMT/CMakeFiles/3.3.2/CMakeRCCompiler.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.3/Modules/CMakeCommonLanguageInclude.cmake
+D:/opencv/build/OpenCVConfig-version.cmake
+D:/opencv/build/OpenCVConfig.cmake
+D:/opencv/build/x86/vc12/lib/OpenCVConfig.cmake
+D:/opencv/build/x86/vc12/lib/OpenCVModules.cmake
+D:/opencv/build/x86/vc12/lib/OpenCVModules-debug.cmake
+D:/opencv/build/x86/vc12/lib/OpenCVModules-release.cmake

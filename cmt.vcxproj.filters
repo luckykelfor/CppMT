@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\gui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\CMT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\Consensus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\Fusion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\Matcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\Tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\fastcluster\fastcluster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Myworkspace\VS2013\Tracking\CppMT\getopt\getopt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Myworkspace\VS2013\Tracking\CppMT\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FD062939-D130-4D9F-A6C6-8CB8E4404EEC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
